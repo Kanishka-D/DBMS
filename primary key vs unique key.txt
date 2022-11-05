@@ -1,0 +1,11 @@
+PRIMARY KEY VS UNIQUE KEY:
+
+Primary key cannot have null values.
+Primary key cannot have duplicate values.
+A table can have only one Primary key.
+
+
+UNIQUE KEY:
+It cannot have duplicates values.
+So it can have only one null value.
+A table can have multiple unique key.
